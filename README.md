@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi! I'm Will.
+
+I'm a senior software engineer from Melbourne, Australia. 
+
+### Contact me
+
+- https://willdady.com
+- https://twitter.com/WillDady
+- https://www.linkedin.com/in/willdady/
+
 
 <!--
 **willdady/willdady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
