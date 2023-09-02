@@ -1,11 +1,9 @@
 ### Hi! I'm Will.
 
-I'm a senior software engineer from Melbourne, Australia. 
+I'm a principal software engineer and AWS APN Ambassador from Melbourne, Australia. 
 
 ### Contact me
 
-- https://willdady.com
-- https://twitter.com/WillDady
 - https://www.linkedin.com/in/willdady/
 
 
