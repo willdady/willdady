@@ -1,10 +1,11 @@
 ### Hi! I'm Will.
 
-I'm a principal software engineer and AWS APN Ambassador from Melbourne, Australia. 
+I'm a principal software engineer and AWS certified professional from Melbourne, Australia. 
 
 ### Contact me
 
-- https://www.linkedin.com/in/willdady/
+- 💼 https://www.linkedin.com/in/willdady/
+- 🦋 https://bsky.app/profile/willdady.com
 
 
 <!--
